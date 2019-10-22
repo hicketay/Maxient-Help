@@ -1,13 +1,14 @@
-<!DOCTYPE html>
 	<html>
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
 			<nav>
 	    		<ul>
+					{% for page in site.pages %}
+    <a href={{ page.filename }}>{{ page.title }}</a>
+{% endfor %}
 	        		<li><a href="/">Home</a></li>
 		        	<li><a href="/How to Notify a Client of Appointment Approval">How to Notify a Client of Appointment Approval</a></li>
 	        		<li><a href="/How to Schedule an Appointment for a Client">How to Schedule an Appointment for a Client</a></li>
@@ -17,6 +18,5 @@
 			
 			{{ content }}
 			
-			</div><!-- /.container -->
 		</body>
 	</html>
