@@ -1,6 +1,6 @@
 ---
 title: How to Notify a Client of Appointment Approval 
-layout: template
+layout: page
 filename: HowtoNotifyaClientofAppointmentApproval.md 
 --- 
 # How to Notify a Client of Appointment Approval 
