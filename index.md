@@ -5,7 +5,7 @@ filename: index.md
 [How to Notify a Client of Appointment Approval](https://hicketay.github.io/How-to-Notify-a-Client-of-Appointment-Approval/)        •     [How to Schedule an Appointment for a Client](https://hicketay.github.io/How-to-Schedule-an-Appointment-for-a-Client/) • [Home](https://hicketay.github.io/Maxient-Help/)
 # Welcome Student Legal Services Employee
 
-Maxient is a software system that manages behavior records on college campuses all across the country. At Student Legal Services, we use Maxient to help us organize potential clients and let them know if they can use our services. MaxientHelp will provide guidance to help you complete your primary duties as an employee, which include:
+Maxient is a software system that manages behavior records on college campuses all across the country. At Student Legal Services, we use Maxient to help us organize potential clients and let them know if they can use our services. Maxient-Help will provide guidance to help you complete your primary duties as an employee, which include:
 
 - creating new client case files,
 - sending appointment notification letters, and
