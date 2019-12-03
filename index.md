@@ -2,7 +2,8 @@
 title: Maxient Help
 filename: index.md 
 --- 
-[How to Notify a Client of Appointment Approval](https://hicketay.github.io/How-to-Notify-a-Client-of-Appointment-Approval/)        • [Home](https://hicketay.github.io/MaxientHelp/) • [How to Schedule an Appointment for a Client](https://hicketay.github.io/How-to-Schedule-an-Appointment-for-a-Client/)  
+[How to Notify a Client of Appointment Approval](https://hicketay.github.io/How-to-Notify-a-Client-of-Appointment-Approval/)        • [Home](https://hicketay.github.io/MaxientHelp/) •
+[How to Schedule an Appointment for a Client](https://hicketay.github.io/How-to-Schedule-an-Appointment-for-a-Client/)  
 
 # Welcome Student Legal Services Employee
 
